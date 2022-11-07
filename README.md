@@ -1,1 +1,1 @@
-# odin-recipes
+This is my very first project in HTML. It's a basic recipe website which consists of a main index page that have links to a few recipes. Such skills as creating paragraphs, headlines, bold or italic fonts, lists, adding absolute and relative links, images are demonstrated in this project.
