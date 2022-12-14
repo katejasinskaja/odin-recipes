@@ -1,0 +1,30 @@
+#mainhead {font-family: Garamond, serif;
+color: rgb(225, 129, 20);
+text-align: center;
+font-size: 100px;
+font-weight:bold;
+
+}
+.list {font-family: Garamond, serif;
+font-size: 50px;
+color:black;
+text-align: left;
+
+}
+
+
+#mainhead.head {font-size: 50px;}
+
+h2 {font-family: Garamond, serif;
+    color: rgb(225, 129, 20);
+    text-align: left;
+    font-size: 30px;
+    font-weight:bold;}
+
+li, p {font-family: Garamond, serif;
+    font-size: 20px;
+    color:black;
+    text-align: left;}
+
+img {width:500px; height:auto;}
+.center {text-align: center;}
